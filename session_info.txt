@@ -1,0 +1,49 @@
+R version 4.6.1 (2026-06-24)
+Platform: aarch64-apple-darwin23
+Running under: macOS Tahoe 26.6
+
+Matrix products: default
+BLAS:   /System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib 
+LAPACK: /Library/Frameworks/R.framework/Versions/4.6/Resources/lib/libRlapack.dylib;  LAPACK version 3.12.1
+
+locale:
+[1] en_US.UTF-8/en_US.UTF-8/en_US.UTF-8/C/en_US.UTF-8/en_US.UTF-8
+
+time zone: Europe/London
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] ggstats_0.14.0          pROC_1.19.1             car_3.1-5              
+ [4] carData_3.0-6           broom.helpers_1.23.0    broom_1.0.13           
+ [7] gtsummary_2.6.1         lubridate_1.9.5         forcats_1.0.1          
+[10] stringr_1.6.0           purrr_1.2.2             readr_2.2.0            
+[13] tidyr_1.3.2             tibble_3.3.1            tidyverse_2.0.0        
+[16] ResourceSelection_0.3-6 ggalluvial_0.12.6       dplyr_1.2.1            
+[19] ggplot2_4.0.3          
+
+loaded via a namespace (and not attached):
+ [1] gridExtra_2.3.1    sandwich_3.1-3     rlang_1.3.0        magrittr_2.0.5    
+ [5] multcomp_1.4-32    otel_0.2.0         compiler_4.6.1     mgcv_1.9-4        
+ [9] systemfonts_1.3.2  vctrs_0.7.3        pkgconfig_2.0.3    crayon_1.5.3      
+[13] fastmap_1.2.0      backports_1.5.1    labeling_0.4.3     effectsize_1.0.3  
+[17] utf8_1.2.6         markdown_2.0       tzdb_0.5.0         haven_2.5.5       
+[21] ragg_1.5.2         bit_4.6.0          xfun_0.61          labelled_2.16.1   
+[25] litedown_0.11      parallel_4.6.1     R6_2.6.1           stringi_1.8.9     
+[29] RColorBrewer_1.1-3 estimability_2.0.0 Rcpp_1.1.2         knitr_1.52        
+[33] zoo_1.9-1          parameters_0.29.3  Matrix_1.7-6       splines_4.6.1     
+[37] timechange_0.4.0   tidyselect_1.2.1   rstudioapi_0.19.0  dichromat_2.0-1   
+[41] abind_1.4-8        codetools_0.2-20   lattice_0.23-1     withr_3.0.3       
+[45] bayestestR_0.19.0  S7_0.2.2           coda_0.19-4.1      evaluate_1.0.5    
+[49] survival_3.8-12    xml2_1.6.0         pillar_1.11.1      ggpubr_1.0.0      
+[53] insight_1.5.4      generics_0.1.4     vroom_1.7.1        hms_1.1.4         
+[57] commonmark_2.0.0   scales_1.4.0       xtable_1.8-8       glue_1.8.1        
+[61] survminer_0.5.2    emmeans_2.0.4      tools_4.6.1        ggsignif_0.6.4    
+[65] fs_2.1.0           mvtnorm_1.4-2      grid_4.6.1         cards_0.9.0       
+[69] datawizard_1.4.0   nlme_3.1-171       cardx_0.3.4        Formula_1.2-6     
+[73] cli_3.6.6          textshaping_1.0.5  gt_1.3.0           gtable_0.3.6      
+[77] rstatix_1.1.0      sass_0.4.10        digest_0.6.39      TH.data_1.1-5     
+[81] farver_2.1.2       htmltools_0.5.9    lifecycle_1.0.5    MASS_7.3-66       
+[85] bit64_4.8.6       

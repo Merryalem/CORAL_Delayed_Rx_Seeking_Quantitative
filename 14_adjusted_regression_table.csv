@@ -1,0 +1,19 @@
+**Characteristic**,**Adjusted OR**,**95% CI**,**p-value**
+__health_center__,,,0.10
+Alduba HC,,,
+Turmi HC,1.04,"0.11, 8.21",
+Kangatin HC,0.68,"0.07, 4.93",
+Assile HC,0.22,"0.03, 1.37",
+__transport_mode__,,,__0.041__
+On foot,,,
+Public transport / Other,2.95,"1.04, 8.65",
+__borrow_or_sell_for_treatment__,,,0.3
+No,,,
+Yes,0.47,"0.11, 1.83",
+__age_cat__,,,0.2
+<18,,,
+18-29,1.24,"0.39, 3.97",
+30+,3.86,"0.79, 20.3",
+__distance_cat__,,,__0.014__
+< 2 hours (< 120 mins),,,
+>= 2 hours (>= 120 mins),3.71,"1.30, 11.6",

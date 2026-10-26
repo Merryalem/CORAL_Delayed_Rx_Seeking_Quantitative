@@ -1,0 +1,49 @@
+**Characteristic**,**N**,**OR**,**95% CI**,**p-value**
+__gender__,92,,,0.4
+Male,,,,
+Female,,1.50,"0.56, 4.06",
+__health_center__,92,,,__0.019__
+Alduba HC,,,,
+Turmi HC,,0.20,"0.03, 1.04",
+Kangatin HC,,0.18,"0.02, 0.81",
+Assile HC,,0.08,"0.01, 0.41",
+__heard_of_vl__,92,,,0.6
+No,,,,
+Yes,,0.80,"0.34, 1.88",
+__vl_preventable__,92,,,0.12
+Yes,,,,
+No,,2.22,"0.82, 6.32",
+__transport_mode__,92,,,__0.004__
+On foot,,,,
+Public transport / Other,,3.42,"1.46, 8.27",
+__transport_available__,92,,,0.052
+No,,,,
+Yes,,2.28,"0.99, 5.40",
+__transport_affordable__,92,,,0.10
+No,,,,
+Yes,,2.07,"0.87, 5.02",
+__borrow_or_sell_for_treatment__,92,,,__0.016__
+No,,,,
+Yes,,0.26,"0.08, 0.79",
+__family_stop_work_for_care__,92,,,0.3
+No,,,,
+Yes,,1.98,"0.59, 7.81",
+__belief_sandfly_bite__,92,,,>0.9
+0,,,,
+1,,0.97,"0.38, 2.44",
+__belief_poor_hygiene__,92,,,0.2
+0,,,,
+1,,1.90,"0.74, 5.05",
+__belief_drinking_dirty_water__,92,,,0.2
+0,,,,
+1,,2.42,"0.68, 9.85",
+__vl_risk_everyone__,92,,,0.6
+0,,,,
+1,,1.28,"0.56, 2.93",
+__age_cat__,92,,,0.054
+<18,,,,
+18-29,,1.15,"0.43, 3.01",
+30+,,4.00,"1.26, 14.3",
+__distance_cat__,92,,,__0.006__
+< 2 hours (< 120 mins),,,,
+>= 2 hours (>= 120 mins),,3.32,"1.40, 8.28",
